@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url("/static/images/virus-1913183_1920.jpg");
+  background-image: url("../images/virus-1913183_1920.jpg");
   background-size: 100%;
   text-align: center;
   color: white;
